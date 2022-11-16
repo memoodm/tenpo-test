@@ -1,0 +1,10 @@
+co\com\memoodm\tenpo\service\user\web\client\JWTResponse.class
+co\com\memoodm\tenpo\service\user\web\client\JWTResponse$JWTResponseBuilder.class
+co\com\memoodm\tenpo\service\user\web\client\JWTWebPayload$JWTWebPayloadBuilder.class
+co\com\memoodm\tenpo\service\user\web\client\ErrorMessage$ErrorMessageBuilder.class
+co\com\memoodm\tenpo\service\user\web\client\ErrorMessage.class
+co\com\memoodm\tenpo\service\user\web\client\LogInRequest.class
+co\com\memoodm\tenpo\service\user\web\client\User.class
+co\com\memoodm\tenpo\service\user\web\client\LogInRequest$LogInRequestBuilder.class
+co\com\memoodm\tenpo\service\user\web\client\JWTWebPayload.class
+co\com\memoodm\tenpo\service\user\web\client\User$UserBuilder.class
